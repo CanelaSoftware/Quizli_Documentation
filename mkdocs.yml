@@ -36,6 +36,6 @@ extra:
       link: https://www.linkedin.com/company/canela-software-inc/
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/appli-io.bsky.social
-# plugins:
-#   - git-revision-date-localized:
-#       enable_creation_date: true
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true

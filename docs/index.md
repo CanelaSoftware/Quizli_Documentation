@@ -1,8 +1,17 @@
 # Welcome to Quizli Documentation
 
+<figure markdown="span">
+![Banner](assets/quizli-devices.png)
+</figure>
+
 !!! note
 
     Quizli is current in _beta_ and this documentation is evolving fast with the app itself. Keep checking back here to see what new features and workflows are unlocked as Quizli approaches release.
+
+**Transform your classroom with engaging e-learning activities**
+
+Quizli is the essential learning management platform that delivers seamless
+end-to-end testing solutions for educators.
 
 ## Teachers
 
